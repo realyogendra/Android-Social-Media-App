@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1555" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1025" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1555" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/layout/activity_create_post.xml" value="0.22" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/SocialApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
